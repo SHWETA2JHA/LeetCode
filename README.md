@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/SHWETA2JHA/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SHWETA2JHA/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHWETA2JHA/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/SHWETA2JHA/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SHWETA2JHA/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/SHWETA2JHA/LeetCode/tree/master/0542-01-matrix) |
+| [1260-shift-2d-grid](https://github.com/SHWETA2JHA/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/SHWETA2JHA/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/SHWETA2JHA/LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
