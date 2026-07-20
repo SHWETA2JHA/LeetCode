@@ -1,22 +1,31 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 private:
-    int solve(TreeNode* root, int &cnt) {
-        if (!root) return INT_MIN;
+    int solve(TreeNode* root, int &cnt){
+        if(!root)return INT_MIN;
 
-        int leftMax = solve(root->left, cnt);
-        int rightMax = solve(root->right, cnt);
+        int l=solve(root->left, cnt);
+        int r=solve(root->right, cnt);
 
-        int subtreeMax = max({root->val, leftMax, rightMax});
+        int maxi=max({root->val, l, r});
 
-        if (root->val == subtreeMax)
-            cnt++;
+        if(maxi==root->val)cnt++;
 
-        return subtreeMax;
+        return maxi;
     }
-
 public:
     int countDominantNodes(TreeNode* root) {
-        int cnt = 0;
+        int cnt=0;
         solve(root, cnt);
         return cnt;
     }
