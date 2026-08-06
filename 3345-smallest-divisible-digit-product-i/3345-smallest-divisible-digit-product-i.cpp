@@ -1,22 +1,23 @@
 class Solution {
 public:
-    int pr(int n) {
-        int p = 1;
+    bool check(int n, int t) {
+        int prod = 1;
+
         while (n) {
-            p = p * (n % 10);
+            prod *= (n % 10);
+
+            if (prod % t == 0)
+                return true;
+
             n /= 10;
         }
-        return p;
+
+        return prod % t == 0;
     }
+
     int smallestNumber(int n, int t) {
-
-        while (true) {
-            int prod = pr(n);
-            if (prod % t == 0)
-                return n;
+        while (!check(n, t))
             n++;
-        }
-
-        return -1;
+        return n;
     }
 };
