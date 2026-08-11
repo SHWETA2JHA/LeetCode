@@ -10,10 +10,7 @@ public:
         unordered_map<int,int>mp;
         for(auto i: nums)mp[i]++;
 
-        for(int i=0; i<50; i++){
-            if(mp.find(ans)!=mp.end())ans++;
-            else return ans;
-        }
+        while(mp.find(ans)!=mp.end())ans++;
         return ans;
     }
 };
