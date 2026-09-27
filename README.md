@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/SHWETA2JHA/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHWETA2JHA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHWETA2JHA/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SHWETA2JHA/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1927-sum-game](https://github.com/SHWETA2JHA/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SHWETA2JHA/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SHWETA2JHA/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/SHWETA2JHA/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHWETA2JHA/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SHWETA2JHA/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SHWETA2JHA/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SHWETA2JHA/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
