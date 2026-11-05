@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SHWETA2JHA/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0542-01-matrix](https://github.com/SHWETA2JHA/LeetCode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHWETA2JHA/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SHWETA2JHA/LeetCode/tree/master/0877-stone-game) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SHWETA2JHA/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0542-01-matrix](https://github.com/SHWETA2JHA/LeetCode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/SHWETA2JHA/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SHWETA2JHA/LeetCode/tree/master/1140-stone-game-ii) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SHWETA2JHA/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/SHWETA2JHA/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHWETA2JHA/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SHWETA2JHA/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SHWETA2JHA/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/SHWETA2JHA/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHWETA2JHA/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting
@@ -210,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SHWETA2JHA/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SHWETA2JHA/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
