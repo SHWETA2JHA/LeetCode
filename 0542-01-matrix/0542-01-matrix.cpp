@@ -1,32 +1,30 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int m=mat.size(),n=mat[0].size();
-        vector<vector<int>>dist(m,vector<int>(n,0));
-        vector<vector<int>>vis(m,vector<int>(n,0));
+        int r=mat.size(), c=mat[0].size(); 
         queue<pair<pair<int,int>,int>>q;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+        vector<vector<int>>vis(r, vector<int>(c,-1));
+        vector<vector<int>>dist(r, vector<int>(c,0));
+
+        for(int i=0; i<r; i++){
+            for(int j=0; j<c; j++){
                 if(mat[i][j]==0){
                     q.push({{i,j},0});
                     vis[i][j]=1;
-                    dist[i][j]=0;
                 }
             }
         }
-        vector<int>directions={-1,0,1,0,-1};
+        vector<int>dir={-1,0,1,0,-1};
         while(!q.empty()){
-            int r=q.front().first.first;
-            int c=q.front().first.second;
-            int d=q.front().second;
+            int cr=q.front().first.first, cc=q.front().first.second, steps=q.front().second;
+            dist[cr][cc]=steps;
             q.pop();
-            dist[r][c]=d;
-            for(int i=0;i<4;i++){
-                int nr=r+directions[i];
-                int nc=c+directions[i+1];
-                if(nr>=0 && nr<m && nc>=0 && nc<n && vis[nr][nc]==0){
+
+            for(int i=0; i<4; i++){
+                int nr=cr+dir[i], nc=cc+dir[i+1];
+                if(nr>=0 && nc>=0 && nr<r && nc<c && vis[nr][nc]==-1){
+                    q.push({{nr,nc}, steps+1});
                     vis[nr][nc]=1;
-                    q.push({{nr,nc},d+1});
                 }
             }
         }
