@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SHWETA2JHA/LeetCode/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/SHWETA2JHA/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SHWETA2JHA/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/SHWETA2JHA/LeetCode/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/SHWETA2JHA/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHWETA2JHA/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/SHWETA2JHA/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -101,12 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/SHWETA2JHA/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SHWETA2JHA/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/SHWETA2JHA/LeetCode/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/SHWETA2JHA/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/SHWETA2JHA/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SHWETA2JHA/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/SHWETA2JHA/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/SHWETA2JHA/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Prefix Sum
 |  |
