@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHWETA2JHA/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0130-surrounded-regions](https://github.com/SHWETA2JHA/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/SHWETA2JHA/LeetCode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHWETA2JHA/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/SHWETA2JHA/LeetCode/tree/master/0733-flood-fill) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/SHWETA2JHA/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/SHWETA2JHA/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SHWETA2JHA/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SHWETA2JHA/LeetCode/tree/master/0994-rotting-oranges) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/SHWETA2JHA/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/SHWETA2JHA/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SHWETA2JHA/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SHWETA2JHA/LeetCode/tree/master/0994-rotting-oranges) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/SHWETA2JHA/LeetCode/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/SHWETA2JHA/LeetCode/tree/master/0733-flood-fill) |
 | [3310-remove-methods-from-project](https://github.com/SHWETA2JHA/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -225,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHWETA2JHA/LeetCode/tree/master/0042-trapping-rain-water) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/SHWETA2JHA/LeetCode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
